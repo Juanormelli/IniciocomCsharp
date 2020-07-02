@@ -33,6 +33,7 @@ namespace ExercicioCursoCSharp
                     Console.WriteLine((i)+"  "+cadastro[i]);
                 }
             }
+            Console.WriteLine("Juan");
         }
     }
 }
