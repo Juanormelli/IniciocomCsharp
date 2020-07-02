@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\netcoreapp3.1\ExercicioCursoCSharp.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\netcoreapp3.1\ExercicioCursoCSharp.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\netcoreapp3.1\ExercicioCursoCSharp.AssemblyInfo.cs
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\netcoreapp3.1\ExercicioCursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\bin\Debug\netcoreapp3.1\ExercicioCursoCSharp.exe
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\bin\Debug\netcoreapp3.1\ExercicioCursoCSharp.deps.json
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\bin\Debug\netcoreapp3.1\ExercicioCursoCSharp.runtimeconfig.json
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\bin\Debug\netcoreapp3.1\ExercicioCursoCSharp.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\bin\Debug\netcoreapp3.1\ExercicioCursoCSharp.dll
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\bin\Debug\netcoreapp3.1\ExercicioCursoCSharp.pdb
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\netcoreapp3.1\ExercicioCursoCSharp.dll
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\netcoreapp3.1\ExercicioCursoCSharp.pdb
+C:\Users\juan_\source\repos\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\netcoreapp3.1\ExercicioCursoCSharp.genruntimeconfig.cache
